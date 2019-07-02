@@ -1,0 +1,2 @@
+# symposiumIoT
+hospitality solution
