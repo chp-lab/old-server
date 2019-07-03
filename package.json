@@ -1,0 +1,32 @@
+{
+  "name": "old-server",
+  "version": "1.0.0",
+  "description": "move to new server",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chp-lab/old-server.git"
+  },
+  "keywords": [
+    "move",
+    "server",
+    "server",
+    "moved",
+    "new",
+    "server"
+  ],
+  "author": "Chatpeth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chp-lab/old-server/issues"
+  },
+  "homepage": "https://github.com/chp-lab/old-server#readme"
+}
