@@ -1,2 +1,0 @@
-prototype: prototype of node-red flow for Hotel in Phuket project
-flow release: node-red flow which released on specific date
